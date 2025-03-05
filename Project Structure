@@ -1,0 +1,11 @@
+resume-analyzer/
+│── backend/                 # Flask API for resume analysis  
+│   ├── models/              # NLP models for analysis  
+│   ├── uploads/             # Folder to store uploaded resumes  
+│   ├── app.py               # Main Flask server  
+│── frontend/                # React.js frontend  
+│   ├── src/                 # React components  
+│   ├── App.js               # Main React app  
+│── requirements.txt         # Python dependencies  
+│── package.json             # React dependencies  
+│── README.md                # Project documentation  
